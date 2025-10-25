@@ -1,0 +1,40 @@
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: darkblue;
+}
+
+h2 {
+  color: darkred;
+}
+
+button {
+  background-color: rgb(56, 139, 0);
+  color: rgb(255, 255, 255);
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(128, 98, 0);
+}
+
+a {
+  color: rgb(100, 92, 0);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  margin-top: 10px;
+  border-radius: 10px;
+}
